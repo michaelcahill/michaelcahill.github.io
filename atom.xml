@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Michael Cahill's blog]]></title>
+  <link href="http://michaelcahill.github.io/atom.xml" rel="self"/>
+  <link href="http://michaelcahill.github.io/"/>
+  <updated>2014-06-05T15:44:46+10:00</updated>
+  <id>http://michaelcahill.github.io/</id>
+  <author>
+    <name><![CDATA[Michael Cahill]]></name>
+    <email><![CDATA[michael.cahill@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
